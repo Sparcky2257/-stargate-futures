@@ -1,0 +1,31 @@
+{
+  "Example": {
+    "PEGASUS": [
+      "Dawnre",
+      "Baselai",
+      "Laylox",
+      "Dawnre",
+      "Zamilloz",
+      "Robandus",
+      "Subido"
+    ],
+    "MILKYWAY": [
+      "Leo Minor",
+      "Capricornus",
+      "Centaurus",
+      "Scutum",
+      "Bootes",
+      "Centaurus",
+      "Point of Origin"
+    ],
+    "UNIVERSE": [
+      "Glyph 4",
+      "Glyph 12",
+      "Glyph 25",
+      "Glyph 32",
+      "Glyph 25",
+      "Glyph 8",
+      "Glyph 17"
+    ]
+  }
+}
