@@ -10,6 +10,6 @@ https://discord.gg/Bdcwm5vwP5
 - custom recipes 
 - and more.
 
-#### *⚠️**Help needed, Custom recipes and other features are not yet in the pack. Currently, It's just all the mods that it requires.**⚠️*
+#### ***⚠️Help needed, Custom recipes and other features are not yet in the pack. Currently, It's just all the mods that it requires.⚠️***
 
 - The configuration has started but help is wanted❕
