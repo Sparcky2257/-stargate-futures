@@ -1,4 +1,4 @@
-# stargate futures
+![](https://i.imgur.com/pEKHMxo.png)
 One of the only mod packs using jsg and it's mainly, surrounded by the idea of Stargates.
 stargate futures is a themed modpack based on Stargate, technical development, survival, exploration and adventure.
 
